@@ -32,10 +32,6 @@ Actualmente me concentro en:
 
 - 📧 Email: hectorsolpest@gmil.com
 
-## 📊 Estadísticas de GitHub
-
-![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default&hide_title=true)
-
 ---
 
 *"Code is like humor. When you have to explain it, it's bad." – Cory House*
