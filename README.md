@@ -1,88 +1,43 @@
-# 👋 ¡Hola! Soy Hector Eduardo
+# Hola, soy Hector Eduardo 👋
 
-### 🥋 Desarrollador Full-Stack & Artista Marcial del Código
+Desarrollador Fullstack con enfoque en **Laravel** y **Vue.js**. Me especializo en crear aplicaciones web robustas, mantenibles y escalables, combinando la solidez del backend con interfaces de usuario intuitivas.
 
-> *"Escribo código como practico artes marciales: con disciplina, elegancia y ocasionalmente rompiendo cosas (en desarrollo)"*
+## 🛠️ Tecnologías y herramientas
 
----
+**Backend:**
+- **Laravel** (PHP 8+) - Framework principal para desarrollo backend
+- Eloquent ORM, Migraciones, Seeders
+- API RESTful y autenticación (Sanctum, Passport)
+- Colas, Jobs y Eventos
+- Testing con PHPUnit
 
-## 🛠️ Mi Stack de Batalla
+**Frontend:**
+- **Vue.js 3** (Composition API) + Pinia
+- Vue Router, componentes reutilizables
+- TypeScript cuando el proyecto lo requiere
+- Tailwind CSS para estilos
 
-### 🔥 Backend (Mi dojo principal)
-```php
-// Laravel es mi sensei
-class MiCódigo extends Elegance {
-    use CleanCode, BestPractices;
-    
-    public function dominarElUniverso() {
-        return Artisan::call('make:magic');
-    }
-}
-```
+**Herramientas y más:**
+- Git, GitHub/GitLab
+- MySQL/PostgreSQL
 
-### 🎨 Frontend (Donde la magia sucede)
-```javascript
-// Vue.js es mi katana digital
-const misHabilidades = {
-  frontend: ['Vue', 'Nuxt', 'Tailwind'],
-  estado: ref('🥋 Listo para el combate'),
-  reaccionar() {
-    this.estado = '💥 ¡Kata completado!'
-  }
-}
-```
+## 📈 Enfoque actual
 
-### ⚡ Mi Flujo de Trabajo
-1. `php artisan make:problem`
-2. `npm run dev` (con Vue/Nuxt)
-3. `php artisan test:kick` (¡Kiai!)
-4. `git commit -m "¡Ajuste de cuello de giro!"`
+Actualmente me concentro en:
+- Mejorar mis prácticas de testing (TDD cuando aplica)
+- Patrones de diseño y arquitecturas limpias
+- Optimización de rendimiento tanto en frontend como backend
+
+## 📫 Conectemos
+
+- 📧 Email: hectorsolpest@gmil.com
+
+## 📊 Estadísticas de GitHub
+
+![Estadísticas](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=default&hide_title=true)
 
 ---
 
-## 🥋 Código y Artes Marciales: Mi Filosofía
+*"Code is like humor. When you have to explain it, it's bad." – Cory House*
 
-**"El código limpio es como una postura perfecta"** - Ambos requieren:
-- 🧘 **Disciplina**: Testear hasta que duela (y luego testear más)
-- 💪 **Constancia**: Commits diarios como katas diarios
-- 🧠 **Mente abierta**: Aprender siempre, hasta de los bugs
-- 😄 **Humildad**: Saber que el `console.log` a veces es tu mejor maestro
-
----
-
-## 🏆 Mis Logros Técnicos (Último Belt)
-
-| Kata Técnico | Nivel | Estado |
-|--------------|-------|--------|
-| **Laravel Black Belt** | 🥋🥋🥋🥋🥋 | ¡Cinturón casi negro! |
-| **Vue.js Ninja** | 🥋🥋🥋🥋 | Dominando el arte de la reactividad |
-| **Nuxt.js Sensei** | 🥋🥋🥋 | SSR como si fuera kata de respuestas |
-| **Tailwind CSS Samurái** | 🥋🥋🥋🥋 | Estilizando con precisión mortal |
-
-
-
-## 🥋 Fuera del Código
-
-Cuando no estoy debuggeando o practicando katas digitales:
-- 🥋 **Entreno artes marciales** (el código no es el único que necesita refactoring)
-- 📚 **Leo documentación** (¡sí, por diversión!)
-- ☕ **Tomo café** (el combustible del desarrollador)
-- 🎮 **Juego videojuegos** (para mantener los reflejos sharp)
-
----
-
-## 📫 ¿Quieres practicar katas de código juntos?
-
-¡Siempre estoy abierto a nuevos desafíos y colaboraciones!
-
-```bash
-# Conectemos!
-npm install friendship
-composer require collaboration
-```
-
----
-
-> *"En el código como en las artes marciales: no se trata de golpes fuertes, sino de los bien colocados"*
-
-*¡Que tus tests siempre pasen y tus deployments sean suaves!* 🥋✨
+*Disponible para colaborar en proyectos interesantes relacionados con Laravel y Vue.js.*
