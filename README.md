@@ -30,7 +30,7 @@ Actualmente me concentro en:
 
 ## 📫 Conectemos
 
-- 📧 Email: hectorsolpest@gmil.com
+- 📧 Email: hectorsolpest@gmail.com
 
 ---
 
